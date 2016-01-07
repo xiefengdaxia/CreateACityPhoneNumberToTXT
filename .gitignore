@@ -1,0 +1,35 @@
+﻿# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.pdb
+*.txt
+
+# Shared objects (inc. Windows DLLs)
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.vshost.exe
+
+# Debug files
+*.dSYM/
+*/obj/Debug/*
+*/*/obj/Debug/*
